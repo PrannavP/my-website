@@ -38,6 +38,7 @@ a{
     height: 5px;
     margin-bottom: 10px;
     background-color: black;
+    /* cursor: pointer; */
 }
 
 .nav__link {
