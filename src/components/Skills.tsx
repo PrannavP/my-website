@@ -1,4 +1,4 @@
-const skills = ['React', 'Node.js', 'TypeScript', '.NET', 'Java', 'PHP', "React Native"];
+const skills = ['React', 'Node.js', 'TypeScript', '.NET', 'Java', 'PHP', "React Native", "Python", "SQL", "MongoDB"];
 
 export const Skills = () => {
     return(
