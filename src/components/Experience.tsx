@@ -7,7 +7,7 @@ const Experience = () => {
             company: 'Aegis Software Pvt. Ltd.',
             period: 'May 2025 - Present',
             description:
-                'Joined as an intern and later promoted to trainee, contributing to a OTA (Online Travel Agency) platform. Primarily involved in developing and enhancing the Admin Portal using Next.js, .NET, and PostgreSQL. Worked on implementing backend logic, managing database schemas, optimizing APIs, and improving user interface components for better performance and scalability.'
+                'Joined as an intern and later promoted to trainee. Initially contributed to an OTA (Online Travel Agency) platform, primarily developing and enhancing the Admin Portal using Next.js, .NET, and PostgreSQL. Currently working on the company’s core legacy HMS (Hotel Management System), focusing on maintaining existing modules, implementing new features, optimizing backend logic and APIs, managing database schemas, and improving UI performance and scalability.'
         },
         {
             role: 'Web Developer Intern',
