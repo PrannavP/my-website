@@ -21,9 +21,6 @@ type VisitorData = {
     language: string
 };
 
-
-
-
 const App = () => {
     // call visitor tracking api
     useEffect(() => {
